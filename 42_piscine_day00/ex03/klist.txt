@@ -1,0 +1,5 @@
+Credentials cache: API:23547
+        Principal: ys@42.US.ORG
+
+  Issued                Expires               Principal
+Jan  9 20:21:00 2017  Jan 10 06:21:00 2017  krbtgt/42.US.ORG@42.US.ORG
